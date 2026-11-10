@@ -1,7 +1,7 @@
 /*
  * MCP Server Implementation
  * Reference: https://modelcontextprotocol.io/specification/2024-11-05
- *///bablu
+ */
 
 #include "mcp_server.h"
 #include <esp_app_desc.h>
