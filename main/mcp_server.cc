@@ -24,8 +24,8 @@
 #include "lvgl_theme.h"
 #include "settings.h"
 
-#define TAG "MCP"
-
+#define TAG "MCP"     
+void RegisterAnimaBodyControl(McpServer* server);
 McpServer::McpServer() {}
 
 McpServer::~McpServer() = default;
